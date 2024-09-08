@@ -1,0 +1,15 @@
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\bin\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.deps.json
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\bin\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.dll
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\bin\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.pdb
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\bin\Debug\net6.0\VladKekw.TaskPlanner.Domain.Models.dll
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\bin\Debug\net6.0\VladKekw.TaskPlanner.Domain.Models.pdb
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.CF19E003.Up2Date
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.dll
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\VladKekw.TaskPlanner.Domain.Logic.dll
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\VladKekw.TaskPlanner.Domain.Logic.pdb
+D:\uni\3 курс\.net\VladKekw.TaskPlanner.Domain.Logic\VladKekw.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\VladKekw.TaskPlanner.Domain.Logic.dll

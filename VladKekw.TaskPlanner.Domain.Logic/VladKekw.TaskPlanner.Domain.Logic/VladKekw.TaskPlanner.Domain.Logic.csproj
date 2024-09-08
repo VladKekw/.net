@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="VladKekw.TaskPlanner.Domain.Models">
+      <HintPath>..\..\VladKekw.TaskPlanner.Domain.Models\VladKekw.TaskPlanner.Domain.Models\bin\Debug\net6.0\VladKekw.TaskPlanner.Domain.Models.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

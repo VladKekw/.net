@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\3 \u043A\u0443\u0440\u0441\\.net\\VladKekw.TaskPlanner.Domain.Logic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0162318D-D12B-4BC3-AAA4-7A745CBA35A1}|VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic.csproj|d:\\uni\\3 \u043A\u0443\u0440\u0441\\.net\\vladkekw.taskplanner.domain.logic\\vladkekw.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0162318D-D12B-4BC3-AAA4-7A745CBA35A1}|VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic.csproj|solutionrelative:vladkekw.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0162318D-D12B-4BC3-AAA4-7A745CBA35A1}|VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic.csproj|d:\\uni\\3 \u043A\u0443\u0440\u0441\\.net\\vladkekw.taskplanner.domain.logic\\vladkekw.taskplanner.domain.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0162318D-D12B-4BC3-AAA4-7A745CBA35A1}|VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic.csproj|solutionrelative:vladkekw.taskplanner.domain.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "D:\\uni\\3 \u043A\u0443\u0440\u0441\\.net\\VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "VladKekw.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "D:\\uni\\3 \u043A\u0443\u0440\u0441\\.net\\VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "VladKekw.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:48:57.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\uni\\3 \u043A\u0443\u0440\u0441\\.net\\VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic\\Class1.cs",
+              "RelativeDocumentMoniker": "VladKekw.TaskPlanner.Domain.Logic\\Class1.cs",
+              "ToolTip": "D:\\uni\\3 \u043A\u0443\u0440\u0441\\.net\\VladKekw.TaskPlanner.Domain.Logic\\VladKekw.TaskPlanner.Domain.Logic\\Class1.cs",
+              "RelativeToolTip": "VladKekw.TaskPlanner.Domain.Logic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:45:18.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
