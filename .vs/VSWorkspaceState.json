@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\VladKekw.TaskPlanner",
-    "\\VladKekw.TaskPlanner.Domain.Logic"
+    "\\Vlad.TaskPlanner",
+    "\\Vlad.TaskPlanner\\bin",
+    "\\Vlad.TaskPlanner\\bin\\Debug",
+    "\\Vlad.TaskPlanner\\bin\\Debug\\net6.0",
+    "\\Vlad.TaskPlanner\\obj"
   ],
+  "SelectedNode": "\\Vlad.TaskPlanner",
   "PreviewInSolutionExplorer": false
 }
