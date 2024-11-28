@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kr_.net", "kr_.net\kr_.net.csproj", "{CA31E57F-1539-460C-9A67-06287B635EF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLModel1_ConsoleApp1", "MLModel1_ConsoleApp1\MLModel1_ConsoleApp1.csproj", "{13252423-FC08-4966-95E6-F753FDF0E70E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA31E57F-1539-460C-9A67-06287B635EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA31E57F-1539-460C-9A67-06287B635EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA31E57F-1539-460C-9A67-06287B635EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA31E57F-1539-460C-9A67-06287B635EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13252423-FC08-4966-95E6-F753FDF0E70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13252423-FC08-4966-95E6-F753FDF0E70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13252423-FC08-4966-95E6-F753FDF0E70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13252423-FC08-4966-95E6-F753FDF0E70E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20A95AF-A05F-45F5-9DC0-2110B0E4653F}
+	EndGlobalSection
+EndGlobal
